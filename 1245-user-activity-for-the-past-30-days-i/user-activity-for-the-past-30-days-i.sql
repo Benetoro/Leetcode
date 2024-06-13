@@ -8,4 +8,4 @@ WHERE session_id IS NOT NULL
 AND activity_date BETWEEN '2019-06-28' AND '2019-07-27'  
 #Grouping by activity_date
 GROUP BY activity_date
-ORDER BY day 
+#ORDER BY day 
